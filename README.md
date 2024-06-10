@@ -29,4 +29,8 @@ nvm use 21
 ```
 wget https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/BITNET-HASH-BUFFER.tar.gz
 tar -xvf BITNET-HASH-BUFFER.tar.gz
+cd BITNET-HASH-BUFFER/
+./bitnet-legacy-address-to-hashbyte-buffer.sh
+
+
 ```
