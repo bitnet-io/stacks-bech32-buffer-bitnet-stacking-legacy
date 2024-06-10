@@ -1,3 +1,6 @@
+* (originally referenced from here)
+* https://github.com/stacks-network/docs/issues/817#issuecomment-723303272
+
 # stacks-manual-stacking-script-sandbox-explorer
 # requires node preferrably node v20 or node v21 + bash
 
