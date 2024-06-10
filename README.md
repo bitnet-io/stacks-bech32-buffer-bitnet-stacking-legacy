@@ -26,6 +26,10 @@ nvm install 21
 nvm use 21
 ```
 
+# EXAMPLE STACKING "MANUALLY" USING STACK-STX FUNCTION CALL
+![s1](https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/example-stacking.png)
+
+
 ```
 wget https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/BITNET-HASH-BUFFER.tar.gz
 tar -xvf BITNET-HASH-BUFFER.tar.gz
