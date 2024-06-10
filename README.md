@@ -27,6 +27,10 @@ nvm use 21
 ```
 
 # EXAMPLE STACKING "MANUALLY" USING STACK-STX FUNCTION CALL
+# this example is using 20,000 BitStacks STX
+# 20,000 = 20,000 + 6 zeros (6 zeros are added for the STX 6 digit decimal system)
+# 20000000000
+
 ![s1](https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/example-stacking.png)
 
 # https://explorer.bitnft.io/sandbox/contract-call/SS000000000000000000003E020GD.pox/stack-stx?chain=mainnet
