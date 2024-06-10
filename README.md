@@ -19,10 +19,11 @@ ksh: . ~/.profile
 
 ```
 
-then install the command 
+then the install command 
 
 ```
 nvm install 21
+nvm use 21
 ```
 
 ```
