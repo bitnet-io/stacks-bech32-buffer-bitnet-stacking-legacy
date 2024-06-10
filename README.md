@@ -1,4 +1,4 @@
-# THIS IS FOR LEGACY USING ADDRESS-VERSION 0x19
+# THIS IS FOR LEGACY USING ADDRESS-VERSION 0x19 STARTING WITH B
 
 # for segwit addresses (starting with bit) see this html tool
 
