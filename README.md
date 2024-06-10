@@ -36,7 +36,7 @@ nvm use 21
 # https://explorer.bitnft.io/sandbox/contract-call/SS000000000000000000003E020GD.pox/stack-stx?chain=mainnet
 
 
-# make your own bitnet legacy address into a hashbuffer string
+# running the script to make your own bitnet legacy address into a hashbuffer string to use with the stack-stx function for manual stacking
 
 ```
 wget https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/BITNET-HASH-BUFFER.tar.gz
