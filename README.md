@@ -29,6 +29,10 @@ nvm use 21
 # EXAMPLE STACKING "MANUALLY" USING STACK-STX FUNCTION CALL
 ![s1](https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/example-stacking.png)
 
+# https://explorer.bitnft.io/sandbox/contract-call/SS000000000000000000003E020GD.pox/stack-stx?chain=mainnet
+
+
+# make your own bitnet legacy address into a hashbuffer string
 
 ```
 wget https://github.com/bitnet-io/stacks-manual-stacking-script-sandbox-explorer/releases/download/bash-node-script/BITNET-HASH-BUFFER.tar.gz
