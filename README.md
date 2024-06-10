@@ -1,6 +1,7 @@
 # THIS IS FOR LEGACY USING ADDRESS-VERSION 0x19
 
-# FOR SEGWIT USING ADDRESS-VERSION 0x02 see here
+# for segwit addresses (starting with bit) see this html tool
+
 * https://github.com/bitnet-io/stacks-bech32-buffer-bitnet-stacking-segwit
 
 
