@@ -4,8 +4,7 @@
 * https://github.com/bitnet-io/bech32-buffer-bitnet-stacking
 
 
-* (originally referenced from here)
-* https://github.com/stacks-network/docs/issues/817#issuecomment-723303272
+
 
 
 # for use with BitStacks "stacking"
@@ -59,3 +58,9 @@ cd BITNET-HASH-BUFFER/
 
 
 ```
+
+
+
+
+* (originally referenced from here)
+* https://github.com/stacks-network/docs/issues/817#issuecomment-723303272
