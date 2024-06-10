@@ -7,7 +7,11 @@
 * (originally referenced from here)
 * https://github.com/stacks-network/docs/issues/817#issuecomment-723303272
 
-# stacks-manual-stacking-script-sandbox-explorer
+
+# for use with BitStacks "stacking"
+* https://explorer.bitnft.io/sandbox/contract-call/SS000000000000000000003E020GD.pox/stack-stx?chain=mainnet
+
+
 # requires node preferrably node v20 or node v21 + bash
 
 # installing node
