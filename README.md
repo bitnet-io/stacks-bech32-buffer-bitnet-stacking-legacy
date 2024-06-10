@@ -1,3 +1,9 @@
+# THIS IS FOR LEGACY USING ADDRESS-VERSION 0x19
+
+# FOR SEGWIT USING ADDRESS-VERSION 0x02 see here
+* https://github.com/bitnet-io/bech32-buffer-bitnet-stacking
+
+
 * (originally referenced from here)
 * https://github.com/stacks-network/docs/issues/817#issuecomment-723303272
 
